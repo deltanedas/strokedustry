@@ -8,3 +8,7 @@ you hab strok
 https://github.com/MindustryGame/wiki/pull/26/
 
 https://github.com/MindustryGame/wiki/pull/32/
+
+# public
+we publi
+edit file today
