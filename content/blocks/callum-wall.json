@@ -1,0 +1,10 @@
+{
+	"solid": true,
+	"health": 10000000,
+	"size": 2,
+	"buildCostMultiplier": 0.2,
+	"category": "defense",
+	"requirements": [
+		"copper/0"
+	]
+}
