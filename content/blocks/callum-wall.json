@@ -6,5 +6,6 @@
 	"category": "defense",
 	"requirements": [
 		"copper/0"
-	]
+	],
+	"research": "copper-wall"
 }

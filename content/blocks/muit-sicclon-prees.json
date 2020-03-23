@@ -1,0 +1,23 @@
+{
+	"type": "GenericCrafter",
+	"category": "crafting",
+	"craftEffect": "pulverizeMedium",
+	"outputItem": "silicon/2",
+	"craftTime": 30,
+	"size": 3,
+	"hasItems": true,
+	"hasLiquids": true,
+	"hasPower": true,
+	"consumes": {
+		"power": 1.8,
+		"items": {"items": ["coal/3", "sand/3"]},
+		"liquid": "water/0.1"
+	},
+	"requirements": [
+		"titanium/100",
+		"silicon/25",
+		"lead/100",
+		"graphite/50"
+	],
+	"research": "silicon-smelter"
+}
